@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4f60a4bd-6f0c-4bd4-8cb5-3990a72ac198)# Sales Performance Analysis for a Retail Store
+# Sales Performance Analysis for a Retail Store
 
 [Project Overview](#project-overview) 
 
