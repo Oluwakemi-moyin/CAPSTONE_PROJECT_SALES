@@ -1,4 +1,4 @@
-# Sales Performance Analysis for a Retail Store
+![image](https://github.com/user-attachments/assets/4f60a4bd-6f0c-4bd4-8cb5-3990a72ac198)# Sales Performance Analysis for a Retail Store
 
 [Project Overview](#project-overview) 
 
@@ -53,8 +53,9 @@ Well I approached it in 5 steps:
 4. Data analysis - With the new dataset, I used my analytical expertise to uncover insights from this dataset and to produce visualizations to describe the insights.
    The following tools were used;
       - Microsoft Excel- Use of formulas like Multiplication(Revenue)
-      - Pivot table - for calculations like; Top Performing Products by Total Sales, Average Sales, Distinct Count of Customers, Top 10 Customers by Quantity Sold and
-                    - to show results like; Total Quantity Sold, Total Revenue by Region, Product, Total sales per Region, Region/Product by Distinct count of customers.
+      - Pivot table
+        - for calculations like; Top Performing Products by Total Sales, Average Sales, Distinct Count of Customers, Top 10 Customers by Quantity Sold and
+        - to show results like; Total Quantity Sold, Total Revenue by Region, Product, Total sales per Region, Region/Product by Distinct count of customers.
         FORMULA:
         ```
          Revenue = Quantity sold*Unit Price
@@ -78,8 +79,9 @@ Well I approached it in 5 steps:
             Group by Product
             order by sum(Quantity_sold) desc
             ```
-     - Microsoft Power BI   - Through the use of DAX functions(calculated measure) and Conditional columns
-                            - Use of Charts, Cards, Tables
+     - Microsoft Power BI
+       - Through the use of DAX functions(calculated measure) and Conditional columns
+       - Use of Charts, Cards, Tables
 5. And finally I used these insights to unlock business decisions and to make recommendations on next steps.
 
 ### Exploratory Data Analysis
@@ -119,15 +121,15 @@ Well I approached it in 5 steps:
 Total Revenue and Total Sales per Year
 |YEAR| TOTAL REVENUE|TOTAL SALES|
 |-----| -----|-----|
-|2023|N/A ||
-|2024| N/A||
+|2023|5,575,000|195,000|
+|2024|5,012,500|150,000|
 
 👩‍💻👩🏾‍💻 
 Average Revenue and Average Sales per Year
 |YEAR| AVERAGE REVENUE|AVERAGE SALES|
 |-----| -----|-----|
-|2023|N/A ||
-|2024| N/A||
+|2023|185.8333333|6.5|
+|2024|250.625|7.5|
 
 
 
