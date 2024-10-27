@@ -1,5 +1,23 @@
-# CAPSTONE_PROJECT_SALES
-## Sales Performance Analysis for a Retail Store
+# Sales Performance Analysis for a Retail Store
+
+[Project Overview](#project-overview) 
+
+[Problem](#problem)
+
+[Process](#process)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Inferences](#inferences)
+
+[Conclusion](#conclusion)
+
+[Tables](#tables)
+
+
+
 ### Project Overview
 ---
 The Retail store seeks to carry out the comprehensive analysis of its sales performance across a defined period to gain valuable insights into customer preferences, product sales and regional performances.
@@ -8,10 +26,13 @@ The Retail store seeks to carry out the comprehensive analysis of its sales perf
 ---
 In this project, I was tasked with;
 1. Analyzing the sales performance of a retail store and
-2. To explore sales data to uncover key insights such as:
+2. To explore Sales data to uncover Key Insights such as:
    - Top-selling products
-   - Regional performance, and
+   - Regional performance
    - Monthly sales trends
+   - Total sales by product, region, and month
+   - Average sales per product and
+   - Total revenue by region
    
 ### Process
 ---
@@ -21,14 +42,19 @@ Well I approached it in 5 steps:
 
 2. Data cleaning - after understanding the business, I then cleaned the available datasets and thought about what an ideal dataset should look like for this problem.
    This was done using the following tools;
-    - Microsoft Excel- through the use of conditional formatting to check for duplicates.
-    - Microsoft Power BI- using the transform data page to check for null values and errors.
+    - Microsoft Excel-
+         - The use of conditional formatting to check for duplicates
+         - Pivot Table- to summarise the data
+      
+    - Microsoft Power BI- using the Transform data page to check for null values and errors.
 
 3. Data modelling - After ensuring the data was clean for analysis, I needed to process and model this data into a dataset that can precisely answer the business questions and produce the results needed.
 
 4. Data analysis - With the new dataset, I used my analytical expertise to uncover insights from this dataset and to produce visualizations to describe the insights.
    The following tools were used;
-      - Microsoft Excel- this was done through the use of formulas like Multiplication and also calculations(Average, Sum, Percentage) through the use of Pivot table.
+      - Microsoft Excel- Use of formulas like Multiplication(Revenue)
+      - Pivot table - for calculations like; Top Performing Products by Total Sales, Average Sales, Distinct Count of Customers, Top 10 Customers by Quantity Sold and
+                    - to show results like; Total Quantity Sold, Total Revenue by Region, Product, Total sales per Region, Region/Product by Distinct count of customers.
         FORMULA:
         ```
          Revenue = Quantity sold*Unit Price
@@ -42,8 +68,9 @@ Well I approached it in 5 steps:
             ```
           - Number of transactions per Region
             ```
-            select sum(quantity_sold) as TotalSales_North from SALES_DATA
-            WHERE Region = 'North'
+            select sum(quantity_sold) as TotalSales,Region from SALES_DATA
+            group by Region
+            order by  TotalSales desc
             ```
           - Highest selling product by sales value
             ```
@@ -51,13 +78,27 @@ Well I approached it in 5 steps:
             Group by Product
             order by sum(Quantity_sold) desc
             ```
-     - Microsoft Power BI - Through the use of DAX functions(calculated measure) and Conditional columns
-     
-6. And finally I used these insights to unlock business decisions and to make recommendations on next steps.
+     - Microsoft Power BI   - Through the use of DAX functions(calculated measure) and Conditional columns
+                            - Use of Charts, Cards, Tables
+5. And finally I used these insights to unlock business decisions and to make recommendations on next steps.
 
-
-### Insights
+### Exploratory Data Analysis
 ---
+- Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
+  
+- Microsoft Power BI to summarise and analyse the dataset
+
+### Data Visualization
+---
+- Filtered chart for Year 2023
+- Filtered Chart for Year 2024
+   
+### Inferences
+---
+1. Overall Sales Trends by Month
+2. Regional Performance
+3. Overall Revenue Trends by Month
+4. Insights(Strategic Implications to the Business)
 - FEBRUARY AND JUNE ARE THE TOP MOST SELLING MONTHS WITH TOTAL QUANTITY SOLD OF 50,000 FOR THE TWO YEAR PERIODS(2023&2024)
 - SALES ARE LOWEST IN MAY AND DECEMBER WITH TOTAL QUANTITY SOLD OF 12,500 FOR THE TWO YEAR PERIODS(2023&2024)
 - THE SOUTHERN REGION HAS THE HIGHEST QUANTITY SOLD WITH 122,500 FOR THE TWO YEAR PERIODS(2023&2024) AND ALSO THE HIGHEST REVENUE OF 4,675,000 FOR YEAR 2023 &2024
@@ -67,22 +108,27 @@ Well I approached it in 5 steps:
 - Cus1151 ORDERED FOR ITEMS FROM THE STORE THE MOST WITH A TOTAL ORDER OF 911UNITS
 
 
-2023
-
-
-
-
-2024
  
-Summary
+### Conclusion
 ---
 
-Revenue Table
-|YEAR| TOTAL REVENUE|
-|-----| -----| 
-|2013|N/A |
-|2014| N/A|
-
+### Tables 
+---
 💻
-👩‍💻👩🏾‍💻
 🥇
+Total Revenue and Total Sales per Year
+|YEAR| TOTAL REVENUE|TOTAL SALES|
+|-----| -----|-----|
+|2023|N/A ||
+|2024| N/A||
+
+👩‍💻👩🏾‍💻 
+Average Revenue and Average Sales per Year
+|YEAR| AVERAGE REVENUE|AVERAGE SALES|
+|-----| -----|-----|
+|2023|N/A ||
+|2024| N/A||
+
+
+
+
