@@ -89,8 +89,9 @@ Well I approached it in 5 steps:
 
 ### Exploratory Data Analysis
 ---
-- Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
-- Microsoft Power BI to summarise and analyse the dataset
+Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
+
+
 ![Screenshot 2024-10-26 013918](https://github.com/user-attachments/assets/855d768c-8507-4ee9-80b7-4bdc76350033)
 
 
@@ -126,27 +127,35 @@ Well I approached it in 5 steps:
 ### Conclusion
 ---
 - It is recommended that the business focuses on the sales of SHOES in the SOUTHERN REGION as that is the region with the highest total Revenue for both years.  
-- The price for the JACKETS should be reviewed lower to allow for new customers quickly buy the products.
+- The price for the JACKETS should be reviewed lower to allow for new customers to quickly buy the products.
 - Also, the product can be tested in the Southern Region so as to see how the sales of JACKETS will fare in the region that is our top selling region.
+
                                                                |B|
 ## Regional Performance
 ---
 
 ### Exploratory Data Analysis
 ---
-- Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
-- Microsoft Power BI to summarise and analyse the dataset
+Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
+
 ![Screenshot 2024-10-26 013945](https://github.com/user-attachments/assets/c50df9ea-e619-4ec4-bad2-4fe04d230ca2)
+
 ![Screenshot 2024-10-26 013938](https://github.com/user-attachments/assets/bb744d03-773f-496b-a10d-15464ec2fd8c)
+
 ![Screenshot 2024-10-26 014539](https://github.com/user-attachments/assets/e674cbe2-c346-47e8-b3b3-8f24da9d0676)
 
 
 ### Data Visualization
 ---
 ![Screenshot 2024-10-26 014713](https://github.com/user-attachments/assets/82098663-d84d-458f-b566-9c57f086bcc4)
+
 ![Screenshot 2024-10-26 014628](https://github.com/user-attachments/assets/9c4ca560-d46a-417f-8b8b-2bc814282223)
+
 ![IMG-20241027-WA0022](https://github.com/user-attachments/assets/e40dcfa6-e9e8-4ad8-9125-101ba367f762)
+
 ![IMG-20241027-WA0021](https://github.com/user-attachments/assets/aabfe12a-709f-4675-91f7-87f2f44f0fe4)
+
+![sales by product and region](https://github.com/user-attachments/assets/d101cce1-acf5-4b83-8b0a-f394f3b1750b)
 
    
 ### Inferences
@@ -155,16 +164,12 @@ Well I approached it in 5 steps:
    - The SOUTHERN REGION had the highest quantity sold with 122,500pcs for the two Year periods(2023&2024).
    - FEBRUARY and JUNE are the top most selling months with total quantity sold of 50,000pcs for both for the two year periods.
    - SOUTHERN REGION had the highest total sales in the months of FEBRUARY and JUNE respectively.
+   - WEST and NORTH REGION has the lowest overall quantity sold for DECEMBER and MAY respectively for the two year periods with total quantity sold of 12,500pcs for both regions.
 2. Overall Revenue Trends by Month
    - The SOUTHERN REGION had the highest Revenue of 4,675,000 for the two Year periods(2023&2024).
+   - WEST and NORTH REGION has the lowest Total Revenue for APRIL and SEPTEMBER respectively for the two year periods with Total Revenue of 237,500 and 175,000 respectively for both regions.
 3. Insights(Strategic Implications to the Business)
-- FEBRUARY AND JUNE ARE THE TOP MOST SELLING MONTHS WITH TOTAL QUANTITY SOLD OF 50,000 FOR THE TWO YEAR PERIODS(2023&2024)
-- SALES ARE LOWEST IN MAY AND DECEMBER WITH TOTAL QUANTITY SOLD OF 12,500 FOR THE TWO YEAR PERIODS(2023&2024)
-- THE SOUTHERN REGION HAS THE HIGHEST QUANTITY SOLD WITH 122,500 FOR THE TWO YEAR PERIODS(2023&2024) AND ALSO THE HIGHEST REVENUE OF 4,675,000 FOR YEAR 2023 &2024
-- THE YEAR 2023 WAS THE BEST PERFORMING YEAR WITH TOTAL SALES OF 195,000
-- HAT IS THE MOST ORDERED PRODUCT OF THE RETAIL STORE WITH TOTAL SALES OF 80,000 FOLLOWED BY SHOES WITH 72,500 PIECES
-- HAT AND GLOVE HAVE THE HIGHEST AVERAGE SALES PER PRODUCT WITH A FIGURE OF 8.33 FOLLOWED BY HAT WITH AVERAGE SALES OF 8PCS
-- Cus1151 ORDERED FOR ITEMS FROM THE STORE THE MOST WITH A TOTAL ORDER OF 911UNITS
+   The business needs to focus on the WEST and NORTH REGION and implement ways to improve their sales and revenue. HATS and JACKETS have the lowest sales and revenue asides SHIRTS which are sold in the NORTH. More research needs to be done on why there is low demand for HATS and JACKETS in the NORTH. Probably lower prices or better designs needs to be introduced to increase the demands.
 ### Conclusion
 ---
                                                                |C|
@@ -297,9 +302,6 @@ Well I approached it in 5 steps:
 ### Conclusion
 ---
                
-- Filtered chart for Year 2023
-  
-- Filtered Chart for Year 2024
 ### Tables 
 ---
 💻
