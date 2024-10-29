@@ -52,16 +52,16 @@ In this project, I was tasked with;
 
 ### Tools Used
 ---
-1. Microsoft Excel [Download here]"C:\Users\o.alamu\Documents\DATA ANALYTICS COURSE- LITA -INCUBATOR HUB\capstone project\LITA Capstone Dataset.xlsx"
+1. Microsoft Excel [Download here][LITA Capstone Dataset.xlsx](https://github.com/user-attachments/files/17551083/LITA.Capstone.Dataset.xlsx)
    - for Data cleaning
    - for Summarisation of the data
    - for Visualisation
-3. SQL Server [Download here]"C:\Users\o.alamu\Documents\DATA ANALYTICS COURSE- LITA -INCUBATOR HUB\capstone project\SALES DATA-ALL\SQLQueryPROJECT-SALESDATA.sql"
+2. SQL Server [Download here][Uploading SQLQueryPROJECT-SALESDATA.sql…]()
    - for data querying
-4. Microsoft PowerBI [Download here]"C:\Users\o.alamu\Documents\DATA ANALYTICS COURSE- LITA -INCUBATOR HUB\capstone project\SALES DATA-ALL\sales data- LITA project.pbix"
+3. Microsoft PowerBI [Download here]
     - for Summarisation of the dataset and
     - for Visualisations
-5. Github- for profile building
+4. Github- for profile building
 
 ### Process
 ---
