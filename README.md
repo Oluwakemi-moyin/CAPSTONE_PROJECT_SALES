@@ -4,7 +4,13 @@
 
 [Problem](#problem)
 
+[Dataset Used](#dataset-used)
+
+[Tools Used](#tools-used)
+
 [Process](#process)
+
+[Dashboard Overview](#dashboard-overview)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -32,7 +38,31 @@ In this project, I was tasked with;
    - Total sales by product, region, and month
    - Average sales per product and
    - Total revenue by region
-   
+
+### Dataset Used
+1. Product- these are the lists of product the Retail store offers
+2. Region- these are the region locations the Retail store has its branches
+3. Orderdate- this is the date of order. Presented in day, month, quarter and year.
+4. Quantity Sold- this is the quantity of product purchased by customers per time
+5. Unit price- price at which each product is sold
+6. Revenue- calculated as; quantity sold * unit price
+7. Average sales- average unit sold for each item. Calculated as; total value of all sales orders in the chosen timeframe and divide by the intervals
+8. Average unit price- average price an item is sold in a specified period of time. Calculated as; Total Revenue/ Units sold
+9. Distinct Count of CustomerID- this is to know the total number of customers we have.
+
+### Tools Used
+---
+1. Microsoft Excel [Download here]"C:\Users\o.alamu\Documents\DATA ANALYTICS COURSE- LITA -INCUBATOR HUB\capstone project\LITA Capstone Dataset.xlsx"
+   - for Data cleaning
+   - for Summarisation of the data
+   - for Visualisation
+3. SQL Server [Download here]"C:\Users\o.alamu\Documents\DATA ANALYTICS COURSE- LITA -INCUBATOR HUB\capstone project\SALES DATA-ALL\SQLQueryPROJECT-SALESDATA.sql"
+   - for data querying
+4. Microsoft PowerBI [Download here]"C:\Users\o.alamu\Documents\DATA ANALYTICS COURSE- LITA -INCUBATOR HUB\capstone project\SALES DATA-ALL\sales data- LITA project.pbix"
+    - for Summarisation of the dataset and
+    - for Visualisations
+5. Github- for profile building
+
 ### Process
 ---
 So, how did I tackle this problem?
@@ -82,6 +112,12 @@ Well I approached it in 5 steps:
        - Through the use of DAX functions(calculated measure) for Average Revenue per Product and Calculated columns like Orderdate(Monthly)
        - Use of Charts, Cards, Tables
 5. And finally I used these insights to unlock business decisions and to make recommendations on next steps.
+
+
+### Dashboard Overview
+---
+![IMG-20241027-WA0024](https://github.com/user-attachments/assets/7f99b489-bb45-4888-9814-20826f6778be)
+
 
                                                                |A|
 ## Top-selling products
@@ -298,7 +334,7 @@ The Company should add more products to their current line of products for examp
                
 ### Tables 
 ---
-![IMG-20241027-WA0024](https://github.com/user-attachments/assets/7f99b489-bb45-4888-9814-20826f6778be)
+
 
 
 💻
