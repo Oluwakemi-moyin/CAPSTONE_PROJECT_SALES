@@ -48,7 +48,7 @@ In this project, I was tasked with;
 6. Revenue- calculated as; quantity sold * unit price
 7. Average sales- average unit sold for each item. Calculated as; total value of all sales orders in the chosen timeframe and divide by the intervals
 8. Average unit price- average price an item is sold in a specified period of time. Calculated as; Total Revenue/ Units sold
-9. Distinct Count of CustomerID- this is to know the total number of customers we have.
+9. Count of CustomerID- this is to know the total number of customers we have.
 
 ### Tools Used
 ---
@@ -116,7 +116,8 @@ Well I approached it in 5 steps:
 
 ### Dashboard Overview
 ---
-![IMG-20241027-WA0024](https://github.com/user-attachments/assets/7f99b489-bb45-4888-9814-20826f6778be)
+
+![Screenshot 2024-11-01 115500](https://github.com/user-attachments/assets/7634416c-2954-4d9d-9c13-46a6aa29a953)
 
 
                                                                |A|
@@ -135,7 +136,8 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ---
 ![Screenshot 2024-10-27 232613](https://github.com/user-attachments/assets/c8d22ff0-d693-4e62-9417-431b565c0b6b)
 
-![IMG-20241027-WA0023](https://github.com/user-attachments/assets/d78a3b95-306a-4103-a869-99d561a698c9)
+![Screenshot 2024-10-26 014601](https://github.com/user-attachments/assets/79e0df96-f76e-42e6-bce0-7587b6e31dfc)
+
 
 
 
@@ -166,7 +168,6 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Conclusion
 ---
 - It is recommended that the business focuses on the sales of SHOES in the SOUTHERN REGION as that is the region with the highest total Revenue for both years.  
-- The price for the JACKETS should be reviewed lower to allow for new customers to quickly buy the products.
 - Also, the product(JACKETS) can be tested in the Southern Region so as to see how the sales of JACKETS will fare in the region that is our top selling region.
 - Prices for HATS should be reviewed higher so as to increase its total revenue.
 
@@ -189,8 +190,6 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ---
 ![Screenshot 2024-10-26 014713](https://github.com/user-attachments/assets/82098663-d84d-458f-b566-9c57f086bcc4) ![Screenshot 2024-10-26 014628](https://github.com/user-attachments/assets/9c4ca560-d46a-417f-8b8b-2bc814282223)
 
-![IMG-20241027-WA0022](https://github.com/user-attachments/assets/e40dcfa6-e9e8-4ad8-9125-101ba367f762) ![IMG-20241027-WA0021](https://github.com/user-attachments/assets/aabfe12a-709f-4675-91f7-87f2f44f0fe4)
-
 ![sales by product and region](https://github.com/user-attachments/assets/d101cce1-acf5-4b83-8b0a-f394f3b1750b)
 
    
@@ -212,7 +211,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Conclusion
 ---
 - The business needs to focus on the WEST and NORTH REGION and implement ways to improve their sales and revenue. HATS and JACKETS have the lowest sales and revenue asides SHIRTS which are sold in the NORTH. 
-- More research needs to be done on why there is low demand for HATS and JACKETS in the NORTH. Probably lower prices or better designs needs to be introduced to increase the demands.
+- More research needs to be done on why there is low demand for HATS and JACKETS in the NORTH. Probably better designs or other products needs to be introduced to increase the demands.
 - More promotional contents/activities need to be introduced in both the region with the best sales/revenue(SOUTH) and also the region with the OVERALL poorest performances(WEST). Promotional contents like Billboards, tv adverts, in-store-fliers for special sales discounts, black friday, etc. to encourage more sales.
 
 
@@ -273,9 +272,9 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
-![Screenshot 2024-10-26 014616](https://github.com/user-attachments/assets/cbef74c8-0eac-4ed9-818a-b10fb8c83a0c)
+![Screenshot 2024-10-26 014616](https://github.com/user-attachments/assets/cbef74c8-0eac-4ed9-818a-b10fb8c83a0c)      ![Screenshot 2024-11-01 113853](https://github.com/user-attachments/assets/747cc2f6-bc8a-4f0c-a079-5e7373a359b6)
 
-![IMG-20241027-WA0026](https://github.com/user-attachments/assets/6e8e5888-99e3-4f3f-8f66-4462aab162ef)
+
 
    
 ### Inferences
@@ -305,32 +304,36 @@ The Company should add more products to their current line of products for examp
 ---
 - Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
 
-![Screenshot 2024-10-26 013945](https://github.com/user-attachments/assets/566ce48e-273a-49a5-a6eb-0e9d57a576e3)
-
+![Screenshot 2024-10-26 013945](https://github.com/user-attachments/assets/566ce48e-273a-49a5-a6eb-0e9d57a576e3)   ![Screenshot 2024-11-01 122645](https://github.com/user-attachments/assets/723e066e-e973-4c4c-a63e-dbf16b201cd9)
 
 
 ### Data Visualization
 ---
-![IMG-20241027-WA0021](https://github.com/user-attachments/assets/c901563d-0c14-40e0-9b45-0e9596663f58)
+![Screenshot 2024-10-26 014628](https://github.com/user-attachments/assets/097fb909-d645-46f2-a5d2-d75b3e8926f7)   ![Screenshot 2024-11-01 123019](https://github.com/user-attachments/assets/3bca6b79-c389-4d05-82ff-0148c75bf616)
 
-![Screenshot 2024-10-26 014628](https://github.com/user-attachments/assets/097fb909-d645-46f2-a5d2-d75b3e8926f7)
+![Screenshot 2024-11-01 113745](https://github.com/user-attachments/assets/a5111a86-557a-49bc-85a9-19ee79413b0f)
 
    
 ### Inferences
 ---
-1. Overall Revenue Trends by Month
+1. Overall Revenue Trends by Month and Year
    - The month of FEBRUARY has the highest total revenue of 2,750,000 from the sales of SHOES.
    - SEPTEMBER has the lowest total revenue of 175,000 from the sales of HAT.
+   - The Year 2023 had the highest revenue figure of 5,575,000 which dropped in the Year 2024 by 10.09%.
+   - In 2024, there was a decrease of 23.07% in Total quantity sold from 195,000 units in 2023, this led to a 10.09% reduction in Total Revenue.
+   - In 2024, there was a 20% decrease in Total unit price, which led to a 10.09% reduction in Total Revenue.
 2. Regional Performance
    - SOUTH REGION has the highest total revenue of 2,750,000 from the sales of SHOES.
    - NORTH REGION has the lowest total revenue of 175,000 from the sales of HAT.
 3. Insights(Strategic Implications to the Business)
    - SHOES has the highest total revenue of 3,087,500 with an average unit price of 35 as compared to SOCKS with the lowest total revenue of 912,500 and average unit price of 18.33
-
-
+   - There is a positive relationship between Sum of quantity sold and Revenue. An increase in Sum of quantity sold by 2.97 leads, on average, to a 94.60 unit increase in Revenue, and vice versa.
+   - There is a positive relationship between Sum of unit price and Revenue. An increase in Sum of unit price by 16.5 leads, on average, to a 109.32 unit increase in Revenue and vice versa
 ### Conclusion
 ---
-The Company should add more products to their current line of products for example, for the NORTH region to accommodate all weathers preferences. SOCKS is a very slow moving product so it is advisable the Retail Store should not stock too much quantities per time so as to avoid too much dead stock.
+- There is need to introduce discounts and promos which will increase customers demand, leading to increase in sales, and in turn lead to an increase in Total Revenue. 
+Increasing the prices of product will also boost the Total revenue for the Company.
+- The Company should add more products to their current line of products for example, for the NORTH region to accommodate all weathers preferences. SOCKS is a very slow moving product so it is advisable the Retail Store should not stock too much quantities per time so as to avoid too much dead stock.
                
 ### Tables 
 ---
