@@ -58,7 +58,7 @@ In this project, I was tasked with;
    - for Visualisation
 2. SQL Server [Download here](https://github.com/Oluwakemi-moyin/CAPSTONE_PROJECT_SALES/blob/8c05658bee7b2e5b776109ea5c3b88b235afb71c/SQLQueryPROJECT-SALESDATA.sql )
    - for data querying
-3. Microsoft PowerBI 
+3. Microsoft PowerBI [Download here](https://github.com/Oluwakemi-moyin/CAPSTONE_PROJECT_SALES/blob/340a69393ce64edbaeb221df32990f6c0ac1d9d5/sales%20data-%20LITA%20project.pbix)
     - for Summarisation of the dataset and
     - for Visualisations.
 4. Github- for profile building
