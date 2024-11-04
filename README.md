@@ -1,4 +1,4 @@
-# Sales Performance Analysis for a Retail Store
+# Sales Performance Analysis for MIE MIE Retail Store
 
 [Project Overview](#project-overview) 
 
