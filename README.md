@@ -147,7 +147,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ---
 1. Overall Sales Trends by Month
    - HAT is the top-selling product of the Retail Store wth total sales of 15,929 pcs, followed by SHOES with  14,402pcs for the time periods(2023&2024).
-   - The month of DECEMBER had the lowest number of units sold with 2,465pcs of JACKETS sold in the Year 2023 and 7,500pcs of JACKETS sold in the Year 2024.
+   - The month of MAY had the lowest number of units sold with 994pcs of JACKETS sold in the Year 2023 and 1,488pcs of JACKETS sold in the Year 2024.
    - Sales are lowest in MAY and DECEMBER with total quantity sold of 12,500 for both for the two year periods.
    - The month of JULY had the highest sales of 30,000pcs of shirt sold in the Year 2023 and the month of JUNE also had the highest number of units sold with 30,000pcs of GLOVES sold in the Year 2024.
    - FEBRUARY AND JUNE are the top most selling months with total quantity sold of 50,000pcs for both for the two year periods.
