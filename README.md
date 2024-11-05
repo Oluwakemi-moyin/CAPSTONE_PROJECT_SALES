@@ -117,8 +117,9 @@ Well I approached it in 5 steps:
 
 ### Dashboard Overview
 ---
+![Screenshot 2024-11-05 151727](https://github.com/user-attachments/assets/f2bd04d8-d3fa-408a-b76d-95f9c32c49af)
 
-![Screenshot 2024-11-01 115500](https://github.com/user-attachments/assets/7634416c-2954-4d9d-9c13-46a6aa29a953)
+
 
 
                                                                |A|
@@ -134,11 +135,12 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 
 
+
 ### Data Visualization
 ---
-![Screenshot 2024-10-27 232613](https://github.com/user-attachments/assets/c8d22ff0-d693-4e62-9417-431b565c0b6b)
+![Screenshot 2024-11-05 151837](https://github.com/user-attachments/assets/d0970dae-c55f-4174-96f4-4f90850330c1)
+![Screenshot 2024-11-05 151926](https://github.com/user-attachments/assets/8123d882-1bc6-43d7-9191-facbe827822a)
 
-![Screenshot 2024-10-26 014601](https://github.com/user-attachments/assets/79e0df96-f76e-42e6-bce0-7587b6e31dfc)
 
 
 
@@ -188,9 +190,8 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
-![Screenshot 2024-10-26 014713](https://github.com/user-attachments/assets/82098663-d84d-458f-b566-9c57f086bcc4) ![Screenshot 2024-10-26 014628](https://github.com/user-attachments/assets/9c4ca560-d46a-417f-8b8b-2bc814282223)
-
-![sales by product and region](https://github.com/user-attachments/assets/d101cce1-acf5-4b83-8b0a-f394f3b1750b)
+![Screenshot 2024-11-05 151915](https://github.com/user-attachments/assets/1341977a-091b-4a03-b6e7-a0e3f99c5b12)
+![Screenshot 2024-11-05 152418](https://github.com/user-attachments/assets/0bba72ce-0871-481e-8207-af3fa8c8b256)
 
    
 ### Inferences
@@ -231,7 +232,8 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Data Visualization
 ---
 
-![Screenshot 2024-10-26 014656](https://github.com/user-attachments/assets/9647b6a0-b6ed-46ad-83b3-1083975df1d3)
+![Screenshot 2024-11-05 152711](https://github.com/user-attachments/assets/88a6ae9b-97f2-4260-9d8a-943d0421a3a8)
+
 
    
 ### Inferences
@@ -272,7 +274,8 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ### Data Visualization
 ---
-![Screenshot 2024-10-26 014616](https://github.com/user-attachments/assets/cbef74c8-0eac-4ed9-818a-b10fb8c83a0c)      ![Screenshot 2024-11-01 113853](https://github.com/user-attachments/assets/747cc2f6-bc8a-4f0c-a079-5e7373a359b6)
+![Screenshot 2024-11-05 152031](https://github.com/user-attachments/assets/438ad0bd-15a2-4edb-8078-a258950fd6c4)
+
 
 
 
@@ -311,9 +314,11 @@ The Company should add more products to their current line of products for examp
 
 ### Data Visualization
 ---
-![Screenshot 2024-10-26 014628](https://github.com/user-attachments/assets/097fb909-d645-46f2-a5d2-d75b3e8926f7)   ![Screenshot 2024-11-01 123019](https://github.com/user-attachments/assets/3bca6b79-c389-4d05-82ff-0148c75bf616)
 
-![Screenshot 2024-11-01 113745](https://github.com/user-attachments/assets/a5111a86-557a-49bc-85a9-19ee79413b0f)
+![Screenshot 2024-11-05 152418](https://github.com/user-attachments/assets/45708da4-3fa2-4ced-9e5c-dfd7f9e866e9)
+![Screenshot 2024-11-05 152826](https://github.com/user-attachments/assets/97a7e5ab-1f24-4920-9386-754c3301bd2b)
+![Screenshot 2024-11-05 152052](https://github.com/user-attachments/assets/a16b351f-f9b4-43d2-b2e4-3660bb0ada03)
+![Screenshot 2024-11-05 152040](https://github.com/user-attachments/assets/55517250-ee37-473d-9e7f-98229c2bdefa)
 
    
 ### Inferences
@@ -322,15 +327,15 @@ The Company should add more products to their current line of products for examp
    - The month of FEBRUARY has the highest total revenue of 546,300 from the sales of SHOES.
    - SEPTEMBER has the lowest total revenue of 34,720 from the sales of HAT.
    - The Year 2023 had the highest revenue figure of  1,105,330.00 which dropped in the Year 2024 by 10.09%.
-   - In 2024, there was a decrease of 23.07% in Total quantity sold from 195,000 units in 2023, this led to a 9.91% reduction in Total Revenue in the year 2024.
+   - In 2024, there was a decrease of 23.01% in Total quantity sold from 38,681 units in 2023, this led to a 9.91% reduction in Total Revenue in the year 2024.
    - In 2024, there was a 19.9% decrease in total unit price, which led to a reduction in Total sales in that year and caused a 9.91% reduction in Total Revenue 
 2. Regional Performance
    - SOUTH REGION has the highest total revenue of 927,820 of which 546,300 from the sales of SHOES.
    - NORTH REGION has the lowest total revenue of 34,720 from the sales of HAT.
 3. Insights(Strategic Implications to the Business)
    - SHOES has the highest total revenue of  613,380.00 with an average unit price of 35 as compared to SOCKS with the lowest total revenue of  180,785.00 and average unit price of 18.34
-   - There is a positive relationship between Sum of quantity sold and Revenue. An increase in Sum of quantity sold by 2.97 leads, on average, to a 94.60 unit increase in Revenue, and vice versa.
-   - There is a positive relationship between Sum of unit price and Revenue. An increase in Sum of unit price by 16.5 leads, on average, to a 109.32 unit increase in Revenue and vice versa
+   - There is a positive relationship between Sum of quantity sold and Revenue. An increase in Sum of quantity sold by 2.98 leads, on average, to a 95.13 unit increase in Revenue, and vice versa.
+   - There is a positive relationship between Sum of unit price and Revenue. An increase in Sum of unit price by 16.69 leads, on average, to a 109.40 unit increase in Revenue and vice versa
 ### Conclusion
 ---
 - There is need to introduce discounts and promos which will increase customers demand, leading to increase in sales, and in turn lead to an increase in Total Revenue. 
