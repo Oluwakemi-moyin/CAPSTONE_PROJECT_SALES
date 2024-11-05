@@ -148,23 +148,23 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 1. Overall Sales Trends by Month
    - HAT is the top-selling product of the Retail Store wth total sales of 15,929 pcs, followed by SHOES with  14,402pcs for the time periods(2023&2024).
    - The month of MAY had the lowest number of units sold with 994pcs of JACKETS sold in the Year 2023 and 1,488pcs of JACKETS sold in the Year 2024.
-   - Sales are lowest in MAY and DECEMBER with total quantity sold of 12,500 for both for the two year periods.
-   - The month of JULY had the highest sales of 30,000pcs of shirt sold in the Year 2023 and the month of JUNE also had the highest number of units sold with 30,000pcs of GLOVES sold in the Year 2024.
-   - FEBRUARY AND JUNE are the top most selling months with total quantity sold of 50,000pcs for both for the two year periods.
+   - Sales are lowest in MAY and DECEMBER with a total quantity sold of 3,459 in year 2023.
+   - The month of JULY had the highest sales of 5,940pcs of shirt sold in the Year 2023 and the month of JUNE also had the highest number of units sold with 5,928pcs of GLOVES        sold in the Year 2024.
+   - FEBRUARY AND JUNE are the top most selling months with total quantity sold of 9,930pcs and 9,904pcs for both for the two year periods.
    - SHIRTS AND GLOVES have the HIGHEST AVERAGE SALES PER PRODUCT with a figure oF 8.33 followed by HAT with an AVERAGE SALES of 8PCS
 2. Regional Performance
-   - The SOUTHERN REGION had the highest quantity sold with 122,500pcs for the two Year periods(2023&2024) and highest Revenue of 4,675,000 for the two Year periods(2023&2024).
-   - SHOES, HATS AND SOCKS were the products sold in the Southern Region for the two Year periods(2023&2024).
-   - SHOES and HAT were top selling products in the Southern Region with quantity sold of 50,000pcs for each. 
+   - The SOUTHERN REGION had the highest quantity sold with 24,298pcs for the two Year periods(2023&2024) and highest Revenue of 927,820 for the two Year periods(2023&2024).
+   - SHOES, GLOVES AND SOCKS were the products sold in the Southern Region for the two Year periods(2023&2024).
+   - SHOES and GLOVES were top selling products in the Southern Region with quantity sold of 9,930PCS and 9,904pcs for each. 
 3. Overall Revenue Trends by Month
-   - SHOES is the top-selling product of the Retail store with total revenue of 3,087,500pcs followed by SHIRT for the time periods(2023&2024).
-   - The month of APRIL had the lowest total Revenue of 37,500 for SOCKS sold in the Year 2023 and JULY had a total Revenue of 187,500 for SHOES sold in the Year 2024 which was the lowest for the year.
-   - FEBRUARY has the highest total revenue of 2,750,000 for SHOES for the time periods(2023&2024).
-   - SEPTEMBER has the lowest total revenue of 175,000 for the time periods(2023&2024).
+   - SHOES is the top-selling product of the Retail store with total revenue of 613,380 followed by SHIRT for the time periods(2023&2024).
+   - The month of APRIL had the lowest total Revenue of 7,425 for SOCKS sold in the Year 2023 and JULY had a total Revenue of 37,200 for SHOES sold in the Year 2024 which was          the lowest for the year.
+   - FEBRUARY has the highest total revenue of 546,300 for SHOES for the time periods(2023&2024).
+   - SEPTEMBER has the lowest total revenue of 34,720 for the time periods(2023&2024).
 4. Insights(Strategic Implications to the Business)
-   - SHOES has the highest total revenue as a result of higher average unit price(35) as compared to HATS(21.25) which has the highest sales order.
+   - SHOES has the highest total revenue as a result of higher average unit price(35) as compared to HATS(21.26) which has a highest sales order.
    - JACKETS and SOCKS have the lowest quantity sold and total revenue.
-   - JACKETS has the highest average unit price(41.67) despite the low average sales(3.67). 
+   - JACKETS has the highest average unit price(41.68) despite the low average sales(3.66). 
  
 ### Conclusion
 ---
@@ -195,21 +195,21 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Inferences
 ---
 1. Overall Sales Trends by Month
-   - The SOUTHERN REGION had the overall highest quantity sold with 122,500pcs for the two Year periods(2023&2024).
-   - FEBRUARY and JUNE are the top most selling months with total quantity sold of 50,000pcs for both for the two year periods.
+   - The SOUTHERN REGION had the overall highest quantity sold with 9,930pcs for the two Year periods(2023&2024).
+   - FEBRUARY AND JUNE are the top most selling months with total quantity sold of 9,930pcs and 9,904pcs for both for the two year periods.
    - SOUTHERN REGION had the highest total sales in the months of FEBRUARY and JUNE respectively.
-   - WEST and NORTH REGION has the lowest overall quantity sold for DECEMBER and MAY respectively for the two year periods with total quantity sold of 12,500pcs for both regions.
+   - WEST and NORTH REGION has the lowest overall quantity sold for DECEMBER and MAY respectively for the two year periods with total quantity sold of 2,465pcs and 2,482pcs for       both regions.
 2. Overall Revenue Trends by Month
-   - The SOUTHERN REGION had the highest Revenue of 4,675,000 for the two Year periods(2023&2024).
-   - WEST and NORTH REGION has the lowest Total Revenue for APRIL and SEPTEMBER respectively for the two year periods with Total Revenue of 237,500 and 175,000 respectively for both regions.
+   - The SOUTHERN REGION had the highest Revenue of  927,820.00  for the two Year periods(2023&2024).
+   - WEST and NORTH REGION has the lowest Total Revenue for APRIL and SEPTEMBER respectively for the two year periods with Total Revenue of 46,865.00 and 34,720.00 respectively       for both regions.
 3. Insights(Strategic Implications to the Business)
-   - WEST REGION has the lowest total revenue of 1,512,500 with an average price of 22 for the entire region.
-   - SOUTH REGION has the highest total revenue of 4,675,000 and average unit price of 38 for the entire region.
+   - WEST REGION has the lowest total revenue of 46,865.00  with an average price of 22.03 for the entire region.
+   - SOUTH REGION has the highest total revenue of 927,820.00 and average unit price of 38.02 for the entire region.
 
 
 ### Conclusion
 ---
-- The business needs to focus on the WEST and NORTH REGION and implement ways to improve their sales and revenue. HATS and JACKETS have the lowest sales and revenue asides SHIRTS which are sold in the NORTH. 
+- The business needs to focus on the WEST and NORTH REGION and implement ways to improve their sales and revenue. HATS and JACKETS have the lowest sales and revenue asides SHIRTS for products sold in the NORTH. 
 - More research needs to be done on why there is low demand for HATS and JACKETS in the NORTH. Probably better designs or other products needs to be introduced to increase the demands.
 - More promotional contents/activities need to be introduced in both the region with the best sales/revenue(SOUTH) and also the region with the OVERALL poorest performances(WEST). Promotional contents like Billboards, tv adverts, in-store-fliers for special sales discounts, black friday, etc. to encourage more sales.
 
@@ -236,25 +236,22 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Inferences
 ---
 1. Overall Sales Trends by Month
-   - FEBRUARY and JUNE are the top most selling months with total quantity sold of 50,000pcs for both for the two year periods.
-   - The month of MAY had the lowest number of units sold with 5,000pcs of JACKETS sold in the Year 2023 and 7,500pcs of JACKETS sold in the Year 2024.
-   - Sales are lowest in MAY and DECEMBER with total quantity sold of 12,500 for both for the two year periods.
-   - Cus1151 is the highest buying customer for both time periods(2023&2024) With a total order of 911UNITS. The customer bought the most products(HATS) in the month of MARCH with a total order of 199units.
+   - FEBRUARY and JUNE are the top most selling months with total quantity sold of 9,930pcs and 9,904pcs for both for the two year periods.
+   - The month of MAY had the lowest number of units sold with 994pcs of JACKETS sold in the Year 2023 and 1,488pcs of JACKETS sold in the Year 2024.
+   - Sales are lowest in MAY and DECEMBER with a total quantity sold of 4,947 for both periods.
      
 2. Regional Performance
-   - The SOUTHERN REGION had the overall highest quantity sold with 122,500pcs for the two Year periods(2023&2024).
-   - FEBRUARY and JUNE are the top most selling months with total quantity sold of 50,000pcs for both for the two year periods.
+   - The SOUTHERN REGION had the overall highest quantity sold with 9,930pcs for the two Year periods(2023&2024).
    - SOUTHERN REGION had the highest total sales in the months of FEBRUARY and JUNE respectively.
-   - WEST and NORTH REGION has the lowest overall quantity sold for DECEMBER and MAY respectively for the two year periods with total quantity sold of 12,500pcs for both regions.
+   - WEST and NORTH REGION has the lowest overall quantity sold for DECEMBER and MAY respectively for the two year periods with total quantity sold of 2,465pcs and 2,482pcs for       both regions.
      
 3. Insights(Strategic Implications to the Business)
-   - The month of DECEMBER and MAY have the lowest total sales of 12,500(GLOVES and JACKETS respectively) each.
-   - HAT AND GLOVE have the HIGHEST AVERAGE SALES PER PRODUCT with a figure oF 8.33 followed by HAT with AVERAGE SALES of 8PCS
-   - Cus1151 ORDERED FOR ITEMS FROM THE STORE THE MOST WITH A TOTAL ORDER OF 911UNITS for the two year periods which shows consistency and loyalty to the brand.
+   - The month of DECEMBER and MAY have the lowest total sales of (GLOVES and JACKETS respectively) each.
+   - GLOVES & SHIRT have the HIGHEST AVERAGE SALES PER PRODUCT with a figure oF 8.33 followed by HAT with AVERAGE SALES of 8.00
 
 ### Conclusion
 ---
-The business needs to do a thorough review of the products needed in each Region it has stores in. For example, GLOVES has the lowest total sales in the WEST REGION (12,500), possibly due to the low demand in that region. As December is a festive season, other products like SHOES, Christmas wears are usually more in high demand, so all these should be incorporated into the Retail Store's analysis.
+The business needs to do a thorough review of the products needed in each Region it has stores in. For example, GLOVES AND SHOES has the lowest total sales in the WEST REGION, possibly due to the low demand in that region. As December is a festive season, other products like Christmas CLOTHES are usually more in high demand, so all these should be incorporated into the Retail Store's analysis.
 Also, there should be discounts available in the month of December and marketing gimmicks like BUY 1 GET 1 FREE to encourage more sales.
 
 
@@ -282,7 +279,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Inferences
 ---
 1. Overall Sales Trends by Month
-   - SHOES and GLOVES have the highest average sales of 8.33 each for the MONTHS of FEBRUARY and JUNE for the year periods(2023&2024).
+   - SHOES & SHIRT have the HIGHEST AVERAGE SALES PER PRODUCT with a figure oF 10 & 12 for the MONTHS of FEBRUARY and JULY for the year periods(2023&2024).
    - JACKETS has the lowest average sales of 2.5 in the month of MAY for the year periods(2023&2024).
 
 2. Regional Performance
@@ -290,7 +287,7 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
    - NORTH region had the lowest average sales of 2.5 in the month of MAY for the year periods(2023&2024).
    
 3. Insights(Strategic Implications to the Business)
-   - The weather in the month of MAY might be hot in the NORTHERN REGION and so might not be comfortable for customers to buy JACKETS much in that period so JACKETS sales might pick up in the next month.
+   - The weather in the month of MAY might be hot in the NORTHERN REGION and so might not be comfortable for customers to buy JACKETS much in that period so JACKETS sales might       pick up in the next month.
    - Most of the products being sold in the NORTH region isnt good for the MAY weather. This brought about low sales in that period in the region.
 ### Conclusion
 ---
@@ -321,16 +318,16 @@ The Company should add more products to their current line of products for examp
 ### Inferences
 ---
 1. Overall Revenue Trends by Month and Year
-   - The month of FEBRUARY has the highest total revenue of 2,750,000 from the sales of SHOES.
-   - SEPTEMBER has the lowest total revenue of 175,000 from the sales of HAT.
-   - The Year 2023 had the highest revenue figure of 5,575,000 which dropped in the Year 2024 by 10.09%.
-   - In 2024, there was a decrease of 23.07% in Total quantity sold from 195,000 units in 2023, this led to a 10.09% reduction in Total Revenue.
-   - In 2024, there was a 20% decrease in Total unit price, which led to a 10.09% reduction in Total Revenue.
+   - The month of FEBRUARY has the highest total revenue of 546,300 from the sales of SHOES.
+   - SEPTEMBER has the lowest total revenue of 34,720 from the sales of HAT.
+   - The Year 2023 had the highest revenue figure of  1,105,330.00 which dropped in the Year 2024 by 10.09%.
+   - In 2024, there was a decrease of 23.07% in Total quantity sold from 195,000 units in 2023, this led to a 9.91% reduction in Total Revenue in the year 2024.
+   - In 2024, there was a 19.9% decrease in total unit price, which led to a reduction in Total sales in that year and caused a 9.91% reduction in Total Revenue 
 2. Regional Performance
-   - SOUTH REGION has the highest total revenue of 2,750,000 from the sales of SHOES.
-   - NORTH REGION has the lowest total revenue of 175,000 from the sales of HAT.
+   - SOUTH REGION has the highest total revenue of 927,820 of which 546,300 from the sales of SHOES.
+   - NORTH REGION has the lowest total revenue of 34,720 from the sales of HAT.
 3. Insights(Strategic Implications to the Business)
-   - SHOES has the highest total revenue of 3,087,500 with an average unit price of 35 as compared to SOCKS with the lowest total revenue of 912,500 and average unit price of 18.33
+   - SHOES has the highest total revenue of  613,380.00 with an average unit price of 35 as compared to SOCKS with the lowest total revenue of  180,785.00 and average unit price of 18.34
    - There is a positive relationship between Sum of quantity sold and Revenue. An increase in Sum of quantity sold by 2.97 leads, on average, to a 94.60 unit increase in Revenue, and vice versa.
    - There is a positive relationship between Sum of unit price and Revenue. An increase in Sum of unit price by 16.5 leads, on average, to a 109.32 unit increase in Revenue and vice versa
 ### Conclusion
