@@ -72,7 +72,7 @@ Well I approached it in 5 steps:
 2. Data cleaning - after understanding the business, I then cleaned the available datasets and thought about what an ideal dataset should look like for this problem.
    This was done using the following tools;
     - Microsoft Excel-
-         - The use of conditional formatting to check for duplicates
+         - To check for duplicates
          - Pivot Table- to summarise the data
       
     - Microsoft Power BI- using the Transform data page to check for null values and errors.
@@ -128,8 +128,9 @@ Well I approached it in 5 steps:
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
 
+![Screenshot 2024-11-05 071212](https://github.com/user-attachments/assets/61e11ebe-c05f-48ed-a545-f1b1cfddf0c0)
+![Screenshot 2024-11-05 071822](https://github.com/user-attachments/assets/37cd30db-7d6f-47fb-b923-a387fd27c59f)
 
-![Screenshot 2024-10-26 013918](https://github.com/user-attachments/assets/855d768c-8507-4ee9-80b7-4bdc76350033)
 
 
 ### Data Visualization
@@ -145,8 +146,8 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ### Inferences
 ---
 1. Overall Sales Trends by Month
-   - HAT is the top-selling product of the Retail Store wth total sales of 80,000pcs, followed by SHOES with 72,500 pcs for the time periods(2023&2024).
-   - The month of MAY had the lowest number of units sold with 5,000pcs of JACKETS sold in the Year 2023 and 7,500pcs of JACKETS sold in the Year 2024.
+   - HAT is the top-selling product of the Retail Store wth total sales of 15,929 pcs, followed by SHOES with  14,402pcs for the time periods(2023&2024).
+   - The month of DECEMBER had the lowest number of units sold with 2,465pcs of JACKETS sold in the Year 2023 and 7,500pcs of JACKETS sold in the Year 2024.
    - Sales are lowest in MAY and DECEMBER with total quantity sold of 12,500 for both for the two year periods.
    - The month of JULY had the highest sales of 30,000pcs of shirt sold in the Year 2023 and the month of JUNE also had the highest number of units sold with 30,000pcs of GLOVES sold in the Year 2024.
    - FEBRUARY AND JUNE are the top most selling months with total quantity sold of 50,000pcs for both for the two year periods.
@@ -179,11 +180,9 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
 
-![Screenshot 2024-10-26 013945](https://github.com/user-attachments/assets/c50df9ea-e619-4ec4-bad2-4fe04d230ca2)
+![Screenshot 2024-11-05 071244](https://github.com/user-attachments/assets/7e9774db-c1f2-4d7b-80d6-079219bf3174)  ![Screenshot 2024-11-05 071436](https://github.com/user-attachments/assets/8877c18d-d477-46fc-8d68-c0bf3243515a)
+![Screenshot 2024-11-05 071356](https://github.com/user-attachments/assets/a72208d5-817f-4b2d-9d14-8cdab54df1c2)  ![Screenshot 2024-11-05 071313](https://github.com/user-attachments/assets/59ba0506-e833-437d-b807-abaf6eebe78c)
 
-![Screenshot 2024-10-26 013938](https://github.com/user-attachments/assets/bb744d03-773f-496b-a10d-15464ec2fd8c)
-
-![Screenshot 2024-10-26 014539](https://github.com/user-attachments/assets/e674cbe2-c346-47e8-b3b3-8f24da9d0676)
 
 
 ### Data Visualization
@@ -223,7 +222,9 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
 
-![Screenshot 2024-10-26 014341](https://github.com/user-attachments/assets/0f3a9adc-a9a4-430c-9039-a77252e38b0a)
+![Screenshot 2024-11-05 071301](https://github.com/user-attachments/assets/96438eb6-3d65-42bc-b8c2-b2938442ab29)
+
+![Screenshot 2024-11-05 072402](https://github.com/user-attachments/assets/9b151532-a667-4a0e-a9df-15dbd9f5847e)  ![Screenshot 2024-11-05 072449](https://github.com/user-attachments/assets/cdb9d78a-ac3b-4b8a-ba0e-9f5e3cf00d2a)
 
 
 ### Data Visualization
@@ -267,7 +268,8 @@ Also, there should be discounts available in the month of December and marketing
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
 
-![Screenshot 2024-10-26 013929](https://github.com/user-attachments/assets/1b2b195e-b581-4dc1-b605-02df621bf865)
+![Screenshot 2024-11-05 072449](https://github.com/user-attachments/assets/06d5448f-e00a-47ac-ae3d-879add29cb51)
+
 
 
 ### Data Visualization
@@ -304,7 +306,9 @@ The Company should add more products to their current line of products for examp
 ---
 - Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
 
-![Screenshot 2024-10-26 013945](https://github.com/user-attachments/assets/566ce48e-273a-49a5-a6eb-0e9d57a576e3)   ![Screenshot 2024-11-01 122645](https://github.com/user-attachments/assets/723e066e-e973-4c4c-a63e-dbf16b201cd9)
+![Screenshot 2024-11-05 071436](https://github.com/user-attachments/assets/7e6efe99-3bde-4ec6-8af1-d724bd96aa3b)
+![Screenshot 2024-11-05 071313](https://github.com/user-attachments/assets/98aa0330-c6ea-49ff-b6b6-fccde2932c37)
+
 
 
 ### Data Visualization
@@ -345,15 +349,15 @@ Increasing the prices of product will also boost the Total revenue for the Compa
 Total Revenue and Total Sales per Year
 |YEAR| TOTAL REVENUE|TOTAL SALES|
 |-----| -----|-----|
-|2023|5,575,000|195,000|
-|2024|5,012,500|150,000|
+|2023|1,105,330|38,681|
+|2024|995,760|29,780|
 
 👩‍💻👩🏾‍💻 
 Average Revenue and Average Sales per Year
 |YEAR| AVERAGE REVENUE|AVERAGE SALES|
 |-----| -----|-----|
-|2023|185.8333333|6.5|
-|2024|250.625|7.5|
+|2023|185.71|6.5|
+|2024|250.88|7.5|
 
 
 
