@@ -92,19 +92,19 @@ Well I approached it in 5 steps:
       - SQL Server - analysis was done with queries like;
           - Total Sales for each Product Category
             ```
-            select sum(quantity_sold) as TotalSales,Product from SALES_DATA
+            select sum(quantity_sold) as TotalSales,Product from [SALES DATA_CAPSTONE_PROJECT]
             group by Product
             order by  TotalSales desc
             ```
           - Number of transactions per Region
             ```
-            select sum(quantity_sold) as TotalSales,Region from SALES_DATA
+            select sum(quantity_sold) as TotalSales,Region from [SALES DATA_CAPSTONE_PROJECT]
             group by Region
             order by  TotalSales desc
             ```
           - Highest selling product by sales value
             ```
-            Select top 1 sum(quantity_sold) as TotalSales_Top, Product from SALES_DATA
+            Select top 1 sum(quantity_sold) as TotalSales_Top, Product from [SALES DATA_CAPSTONE_PROJECT]
             Group by Product
             order by sum(Quantity_sold) desc
             ```
