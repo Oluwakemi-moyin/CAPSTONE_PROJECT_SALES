@@ -6,6 +6,8 @@
 
 [Dataset Used](#dataset-used)
 
+[Key Contributions & Insights](#Key-Contributions-&-Insights)
+
 [Tools Used](#tools-used)
 
 [Process](#process)
@@ -16,16 +18,12 @@
 
 [Data Visualization](#data-visualization)
 
-[Inferences](#inferences)
-
-[Conclusion](#conclusion)
-
 [Tables](#tables)
 
 
 ### Project Overview
 ---
-The Retail store seeks to carry out the comprehensive analysis of its sales performance across a defined period to gain valuable insights into customer preferences, product sales and regional performances.
+This project involved a comprehensive analysis of sales performance for MIE MIE Retail Store to extract valuable insights into customer preferences, product sales trends, and regional performance.
 
 ### Problem
 ---
@@ -49,6 +47,12 @@ In this project, I was tasked with;
 7. Average sales- average unit sold for each item. Calculated as; total value of all sales orders in the chosen timeframe and divide by the intervals
 8. Average unit price- average price an item is sold in a specified period of time. Calculated as; Total Revenue/ Units sold
 9. Count of CustomerID- this is to know the total number of customers we have.
+
+### Key Contributions & Insights
+Objective: To provide MIE MIE Retail Store with a deep understanding of its sales landscape and inform strategic decision-making.
+Action: Conducted end-to-end data analysis from raw sales data, encompassing data understanding, cleaning (Microsoft Excel, Power BI), modeling, and in-depth analysis (Microsoft Excel, SQL Server, Power BI DAX).
+Result: Uncovered critical insights into top-selling products, regional performance, monthly sales trends, average sales per product, and total revenue by region.
+Impact: Delivered actionable recommendations to optimize product pricing, streamline inventory, enhance regional marketing efforts, and ultimately drive revenue growth and operational efficiency.
 
 ### Tools Used
 ---
@@ -119,21 +123,23 @@ Well I approached it in 5 steps:
 ---
 ![Screenshot 2024-11-05 151727](https://github.com/user-attachments/assets/f2bd04d8-d3fa-408a-b76d-95f9c32c49af)
 
-
+### Detailed Breakdown by Analysis Area:
 
 
                                                                |A|
 ## Top-selling products
 ---
+### Top-Selling Products & Sales Trends:
+1. Objective: To identify the most impactful products and understand their performance over time.
+2. Action: Performed detailed exploratory data analysis using Excel Pivot Tables and SQL queries to determine total sales per product, highest selling         products by value, and monthly unit sales. Visualized trends in Power BI.
+3. Result: Identified HAT (15,929 pcs) as the top-selling product by quantity and SHOES (₦613,380 revenue) as the top performer by revenue across 2023-        2024. Pinpointed sales dips in May and December and peaks in February and June.
+4. Impact: Provided essential data for inventory management, highlighting products for increased stocking and informing seasonal promotional strategies,       such as reviewing HAT prices for higher revenue potential.
 
 ### Exploratory Data Analysis
 ---
-Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset.
-
+Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
 ![Screenshot 2024-11-05 071212](https://github.com/user-attachments/assets/61e11ebe-c05f-48ed-a545-f1b1cfddf0c0)
 ![Screenshot 2024-11-05 071822](https://github.com/user-attachments/assets/37cd30db-7d6f-47fb-b923-a387fd27c59f)
-
-
 
 
 ### Data Visualization
@@ -142,42 +148,16 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ![Screenshot 2024-11-05 151926](https://github.com/user-attachments/assets/8123d882-1bc6-43d7-9191-facbe827822a)
 
 
-
-
-
-   
-### Inferences
----
-1. Overall Sales Trends by Month
-   - HAT is the top-selling product of the Retail Store wth total sales of 15,929 pcs, followed by SHOES with  14,402pcs for the time periods(2023&2024).
-   - The month of MAY had the lowest number of units sold with 994pcs of JACKETS sold in the Year 2023 and 1,488pcs of JACKETS sold in the Year 2024.
-   - Sales are lowest in MAY and DECEMBER with a total quantity sold of 3,459 in year 2023.
-   - The month of JULY had the highest sales of 5,940pcs of shirt sold in the Year 2023 and the month of JUNE also had the highest number of units sold with 5,928pcs of GLOVES        sold in the Year 2024.
-   - FEBRUARY AND JUNE are the top most selling months with total quantity sold of 9,930pcs and 9,904pcs for both for the two year periods.
-   - SHIRTS AND GLOVES have the HIGHEST AVERAGE SALES PER PRODUCT with a figure oF 8.33 followed by HAT with an AVERAGE SALES of 8PCS
-2. Regional Performance
-   - The SOUTHERN REGION had the highest quantity sold with 24,298pcs for the two Year periods(2023&2024) and highest Revenue of 927,820 for the two Year periods(2023&2024).
-   - SHOES, GLOVES AND SOCKS were the products sold in the Southern Region for the two Year periods(2023&2024).
-   - SHOES and GLOVES were top selling products in the Southern Region with quantity sold of 9,930PCS and 9,904pcs for each. 
-3. Overall Revenue Trends by Month
-   - SHOES is the top-selling product of the Retail store with total revenue of 613,380 followed by SHIRT for the time periods(2023&2024).
-   - The month of APRIL had the lowest total Revenue of 7,425 for SOCKS sold in the Year 2023 and JULY had a total Revenue of 37,200 for SHOES sold in the Year 2024 which was          the lowest for the year.
-   - FEBRUARY has the highest total revenue of 546,300 for SHOES for the time periods(2023&2024).
-   - SEPTEMBER has the lowest total revenue of 34,720 for the time periods(2023&2024).
-4. Insights(Strategic Implications to the Business)
-   - SHOES has the highest total revenue as a result of higher average unit price(35) as compared to HATS(21.26) which has a highest sales order.
-   - JACKETS and SOCKS have the lowest quantity sold and total revenue.
-   - JACKETS has the highest average unit price(41.68) despite the low average sales(3.66). 
- 
-### Conclusion
----
-- It is recommended that the business focuses on the sales of SHOES in the SOUTHERN REGION as that is the region with the highest total Revenue for both years.  
-- Also, the product(JACKETS) can be tested in the Southern Region so as to see how the sales of JACKETS will fare in the region that is our top selling region.
-- Prices for HATS should be reviewed higher so as to increase its total revenue.
-
                                                                |B|
 ## Regional Performance
 ---
+
+### Regional Performance Analysis:
+
+1. Objective: To evaluate sales effectiveness across different retail regions and pinpoint areas for improvement or leverage.
+2. Action: Analyzed regional sales data, total quantities sold, and total revenue using Excel Pivot Tables and Power BI visualizations. Investigated           product sales within each region.
+3. Result: Determined the Southern Region as the highest performer (24,298 units, ₦927,820 revenue), with SHOES and GLOVES as its main drivers. Identified     the West and North Regions as underperforming in overall sales and revenue.
+4. Impact: Guided regional strategic planning, advising focus on the high-performing South and prompting further research and targeted interventions (e.g.,    product diversification, increased promotions) for the West and North regions
 
 ### Exploratory Data Analysis
 ---
@@ -187,38 +167,22 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ![Screenshot 2024-11-05 071356](https://github.com/user-attachments/assets/a72208d5-817f-4b2d-9d14-8cdab54df1c2)  ![Screenshot 2024-11-05 071313](https://github.com/user-attachments/assets/59ba0506-e833-437d-b807-abaf6eebe78c)
 
 
-
 ### Data Visualization
 ---
 ![Screenshot 2024-11-05 151915](https://github.com/user-attachments/assets/1341977a-091b-4a03-b6e7-a0e3f99c5b12)
 ![Screenshot 2024-11-05 152418](https://github.com/user-attachments/assets/0bba72ce-0871-481e-8207-af3fa8c8b256)
 
    
-### Inferences
----
-1. Overall Sales Trends by Month
-   - The SOUTHERN REGION had the overall highest quantity sold with 9,930pcs for the two Year periods(2023&2024).
-   - FEBRUARY AND JUNE are the top most selling months with total quantity sold of 9,930pcs and 9,904pcs for both for the two year periods.
-   - SOUTHERN REGION had the highest total sales in the months of FEBRUARY and JUNE respectively.
-   - WEST and NORTH REGION has the lowest overall quantity sold for DECEMBER and MAY respectively for the two year periods with total quantity sold of 2,465pcs and 2,482pcs for       both regions.
-2. Overall Revenue Trends by Month
-   - The SOUTHERN REGION had the highest Revenue of  927,820.00  for the two Year periods(2023&2024).
-   - WEST and NORTH REGION has the lowest Total Revenue for APRIL and SEPTEMBER respectively for the two year periods with Total Revenue of 46,865.00 and 34,720.00 respectively       for both regions.
-3. Insights(Strategic Implications to the Business)
-   - WEST REGION has the lowest total revenue of 46,865.00  with an average price of 22.03 for the entire region.
-   - SOUTH REGION has the highest total revenue of 927,820.00 and average unit price of 38.02 for the entire region.
-
-
-### Conclusion
----
-- The business needs to focus on the WEST and NORTH REGION and implement ways to improve their sales and revenue. HATS and JACKETS have the lowest sales and revenue asides SHIRTS for products sold in the NORTH. 
-- More research needs to be done on why there is low demand for HATS and JACKETS in the NORTH. Probably better designs or other products needs to be introduced to increase the demands.
-- More promotional contents/activities need to be introduced in both the region with the best sales/revenue(SOUTH) and also the region with the OVERALL poorest performances(WEST). Promotional contents like Billboards, tv adverts, in-store-fliers for special sales discounts, black friday, etc. to encourage more sales.
-
-
                                                                |C|
 ## Monthly sales trends
 ---
+### Monthly Sales & Revenue Trends:
+
+1. Objective: To understand the cyclical nature of sales and revenue to optimize planning.
+2. Action: Compiled monthly sales and revenue reports, conducting analysis on overall trends and specific product performances within different months         using Excel and Power BI.
+3. Result: Confirmed February and June as peak sales months, while December and May showed the lowest sales figures (e.g., JACKETS and SOCKS). Noted a         10.09% overall revenue drop from 2023 to 2024.
+4. Impact: Informed seasonal sales campaigns, inventory adjustments to align with demand fluctuations, and prompted recommendations for festive season         promotions (e.g., "Buy 1 Get 1 Free" in December) to counteract low periods.
+
 
 ### Exploratory Data Analysis
 ---
@@ -234,36 +198,19 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 
 ![Screenshot 2024-11-05 152711](https://github.com/user-attachments/assets/88a6ae9b-97f2-4260-9d8a-943d0421a3a8)
 
-
-   
-### Inferences
----
-1. Overall Sales Trends by Month
-   - FEBRUARY and JUNE are the top most selling months with total quantity sold of 9,930pcs and 9,904pcs for both for the two year periods.
-   - The month of MAY had the lowest number of units sold with 994pcs of JACKETS sold in the Year 2023 and 1,488pcs of JACKETS sold in the Year 2024.
-   - Sales are lowest in MAY and DECEMBER with a total quantity sold of 4,947 for both periods.
-     
-2. Regional Performance
-   - The SOUTHERN REGION had the overall highest quantity sold with 9,930pcs for the two Year periods(2023&2024).
-   - SOUTHERN REGION had the highest total sales in the months of FEBRUARY and JUNE respectively.
-   - WEST and NORTH REGION has the lowest overall quantity sold for DECEMBER and MAY respectively for the two year periods with total quantity sold of 2,465pcs and 2,482pcs for       both regions.
-     
-3. Insights(Strategic Implications to the Business)
-   - The month of DECEMBER and MAY have the lowest total sales of (GLOVES and JACKETS respectively) each.
-   - GLOVES & SHIRT have the HIGHEST AVERAGE SALES PER PRODUCT with a figure oF 8.33 followed by HAT with AVERAGE SALES of 8.00
-
-### Conclusion
----
-The business needs to do a thorough review of the products needed in each Region it has stores in. For example, GLOVES AND SHOES has the lowest total sales in the WEST REGION, possibly due to the low demand in that region. As December is a festive season, other products like Christmas CLOTHES are usually more in high demand, so all these should be incorporated into the Retail Store's analysis.
-Also, there should be discounts available in the month of December and marketing gimmicks like BUY 1 GET 1 FREE to encourage more sales.
-
-
-
                                                                |D|
 
                                           
 ## Average sales per product
 ---
+
+### Average Sales Per Product Analysis
+
+1. Objective: To assess the efficiency and typical performance of individual product units.
+2. Action: Calculated average sales per product and average unit price across timeframes and regions using Excel formulas and Power BI DAX functions.
+3. Result: Revealed SHOES and SHIRTS had the highest average sales in their respective peak months, while JACKETS showed the lowest average sales in May.
+4. Impact: Provided insights for refining product pricing strategies and optimizing product mix, especially in regions with specific environmental or          demand factors (e.g., adapting Northern region's product line to weather).
+
 ### Exploratory Data Analysis
 ---
 Use of Pivot table to organise, summarise and analyse the dataset, thereby making it easier to discover patterns and insights in the dataset
@@ -271,37 +218,22 @@ Use of Pivot table to organise, summarise and analyse the dataset, thereby makin
 ![Screenshot 2024-11-05 072449](https://github.com/user-attachments/assets/06d5448f-e00a-47ac-ae3d-879add29cb51)
 
 
-
 ### Data Visualization
 ---
 ![Screenshot 2024-11-05 152031](https://github.com/user-attachments/assets/438ad0bd-15a2-4edb-8078-a258950fd6c4)
-
-
-
-
-   
-### Inferences
----
-1. Overall Sales Trends by Month
-   - SHOES & SHIRT have the HIGHEST AVERAGE SALES PER PRODUCT with a figure oF 10 & 12 for the MONTHS of FEBRUARY and JULY for the year periods(2023&2024).
-   - JACKETS has the lowest average sales of 2.5 in the month of MAY for the year periods(2023&2024).
-
-2. Regional Performance
-   - SOUTH region has the highest average sales of 10 for the month of FEBRUARY for the year periods(2023&2024).
-   - NORTH region had the lowest average sales of 2.5 in the month of MAY for the year periods(2023&2024).
-   
-3. Insights(Strategic Implications to the Business)
-   - The weather in the month of MAY might be hot in the NORTHERN REGION and so might not be comfortable for customers to buy JACKETS much in that period so JACKETS sales might       pick up in the next month.
-   - Most of the products being sold in the NORTH region isnt good for the MAY weather. This brought about low sales in that period in the region.
-### Conclusion
----
-The Company should add more products to their current line of products for example for the NORTH region to accommodate all weathers preferences.
-    
                                                                
                                                                
                                                                |E|
 ## Total revenue by region
 ---
+
+### Total Revenue by Region Analysis
+
+1. Objective: To understand the primary drivers of revenue across different geographical areas.
+2. Action: Performed in-depth analysis of total revenue figures by region, correlated with unit price and quantity sold, using Excel and Power BI for          comprehensive visualization.
+3. Result: Reconfirmed the Southern Region's leading revenue contribution (₦927,820), primarily from SHOES sales. Identified a strong positive relationship    between quantity sold/unit price and revenue.
+4. Impact: Reinforced recommendations for regional investment and pricing strategies to maximize revenue. Advised on stock management for slow-moving          products (like SOCKS) to avoid dead stock and suggested company-wide promotional activities to boost overall sales and revenue.
+
 
 ### Exploratory Data Analysis
 ---
@@ -309,8 +241,6 @@ The Company should add more products to their current line of products for examp
 
 ![Screenshot 2024-11-05 071436](https://github.com/user-attachments/assets/7e6efe99-3bde-4ec6-8af1-d724bd96aa3b)
 ![Screenshot 2024-11-05 071313](https://github.com/user-attachments/assets/98aa0330-c6ea-49ff-b6b6-fccde2932c37)
-
-
 
 ### Data Visualization
 ---
@@ -320,28 +250,7 @@ The Company should add more products to their current line of products for examp
 ![Screenshot 2024-11-05 152052](https://github.com/user-attachments/assets/a16b351f-f9b4-43d2-b2e4-3660bb0ada03)
 ![Screenshot 2024-11-05 152040](https://github.com/user-attachments/assets/55517250-ee37-473d-9e7f-98229c2bdefa)
 
-   
-### Inferences
----
-1. Overall Revenue Trends by Month and Year
-   - The month of FEBRUARY has the highest total revenue of 546,300 from the sales of SHOES.
-   - SEPTEMBER has the lowest total revenue of 34,720 from the sales of HAT.
-   - The Year 2023 had the highest revenue figure of  1,105,330.00 which dropped in the Year 2024 by 10.09%.
-   - In 2024, there was a decrease of 23.01% in Total quantity sold from 38,681 units in 2023, this led to a 9.91% reduction in Total Revenue in the year 2024.
-   - In 2024, there was a 19.9% decrease in total unit price, which led to a reduction in Total sales in that year and caused a 9.91% reduction in Total Revenue 
-2. Regional Performance
-   - SOUTH REGION has the highest total revenue of 927,820 of which 546,300 from the sales of SHOES.
-   - NORTH REGION has the lowest total revenue of 34,720 from the sales of HAT.
-3. Insights(Strategic Implications to the Business)
-   - SHOES has the highest total revenue of  613,380.00 with an average unit price of 35 as compared to SOCKS with the lowest total revenue of  180,785.00 and average unit price of 18.34
-   - There is a positive relationship between Sum of quantity sold and Revenue. An increase in Sum of quantity sold by 2.98 leads, on average, to a 95.13 unit increase in Revenue, and vice versa.
-   - There is a positive relationship between Sum of unit price and Revenue. An increase in Sum of unit price by 16.69 leads, on average, to a 109.40 unit increase in Revenue and vice versa
-### Conclusion
----
-- There is need to introduce discounts and promos which will increase customers demand, leading to increase in sales, and in turn lead to an increase in Total Revenue. 
-Increasing the prices of product will also boost the Total revenue for the Company.
-- The Company should add more products to their current line of products for example, for the NORTH region to accommodate all weathers preferences. SOCKS is a very slow moving product so it is advisable the Retail Store should not stock too much quantities per time so as to avoid too much dead stock.
-               
+          
 ### Tables 
 ---
 
