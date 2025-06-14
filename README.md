@@ -49,10 +49,10 @@ In this project, I was tasked with;
 9. Count of CustomerID- this is to know the total number of customers we have.
 
 ### Key Insights
-Objective: To provide MIE MIE Retail Store with a deep understanding of its sales landscape and inform strategic decision-making.
-Action: Conducted end-to-end data analysis from raw sales data, encompassing data understanding, cleaning (Microsoft Excel, Power BI), modeling, and in-depth analysis (Microsoft Excel, SQL Server, Power BI DAX).
-Result: Uncovered critical insights into top-selling products, regional performance, monthly sales trends, average sales per product, and total revenue by region.
-Impact: Delivered actionable recommendations to optimize product pricing, streamline inventory, enhance regional marketing efforts, and ultimately drive revenue growth and operational efficiency.
+1. Objective: To provide MIE MIE Retail Store with a deep understanding of its sales landscape and inform strategic decision-making.
+2. Action: Conducted end-to-end data analysis from raw sales data, encompassing data understanding, cleaning (Microsoft Excel, Power BI), modeling, and in-    depth analysis (Microsoft Excel, SQL Server, Power BI DAX).
+3. Result: Uncovered critical insights into top-selling products, regional performance, monthly sales trends, average sales per product, and total revenue     by region.
+4. Impact: Delivered actionable recommendations to optimize product pricing, streamline inventory, enhance regional marketing efforts, and ultimately drive    revenue growth and operational efficiency.
 
 ### Tools Used
 ---
